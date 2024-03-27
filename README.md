@@ -1,6 +1,13 @@
-# eloca-frontend
+# Eloca Frontend Test
 
 ## Project setup
+
+Change endpoint for API in /src/baseUrl.js 
+
+NODE Version v18.17.0
+
+NPM Version  v10.5.0
+
 ```
 yarn install
 ```
